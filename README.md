@@ -13,12 +13,14 @@
   </div><br/>
 
   ###  🍎 Once I've used 🍎
-   <div style="display:flex; flex-direction:row;">
-     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-      <img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white">
-   </div>
+  <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white">
+  </div><br/><br/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonSuBin129&show_icons=true&theme=calm)
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonSubin129&show_icons=true&theme=calm)
+  
 </div>

@@ -20,6 +20,6 @@
     <img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white">
   </div><br/><br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonSuBin129&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonSuBin129&show_icons=true&theme=vue)
   
 </div>

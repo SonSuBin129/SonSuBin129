@@ -34,3 +34,4 @@
 
 ## 🏆 Awards and Honors
 - 교내 2024 에코업 AI/DS-ESG 아이디어톤 대상
+- 교내 2024 SW 졸업작품 전시회 우수상

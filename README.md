@@ -14,7 +14,7 @@
 | **5** | [날씨 정보에 따른 옷차림 추천 서비스: Clother](https://github.com/SonSuBin129/Clother-FE) | 학부: HCI 프로젝트 | HTML | - | 2024 |
 | **6** | [어휘력 증진 서비스: 어휘릭](https://github.com/SonSuBin129/Eohwirik) | 멋쟁이사자처럼 연합해커톤 | React | 참여 | 2024 |
 | **7** | [구화인을 위한 교육 플랫폼: Sonsori](https://github.com/MechaLions) | 학부: 졸업프로젝트 | React | 우수상 | 2024 |
-| **8** | [축제 웨이팅 서비스: Uket](https://github.com/DCNJ-Uket) | 사이드 프로젝트 (진행중) | React | - | 2024 |
+| **8** | [공연 티켓팅 서비스: Uket](https://github.com/DCNJ-Uket) | 사이드 프로젝트 (진행중) | React | - | 2024 |
 
 <br/>
 

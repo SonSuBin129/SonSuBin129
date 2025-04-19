@@ -1,19 +1,5 @@
 # Welcome to Subin's Github!
 
-## 🍀 Projects
-|  #  | Project | Description | Tech Stack | Award | Year |
-| --- | ------- | ----------- | ---------- | ----- | ---- |
-| **1** | [수유실 길찾기 서비스: MilkyWay](https://github.com/SonSuBin129/MilkyWay) | 학부: 모바일프로그래밍 프로젝트 | Kotlin | - | 2023 |
-| **2** | [세대별 디지털 정보격차 해소를 위한 서비스: 트랜스밈](https://github.com/SonSuBin129/TransMeme) | 멋쟁이사자처럼 연합해커톤 | Django | 참여 | 2023 |
-| **3** | [분리수거 교육 서비스: 슈퍼클리너](https://github.com/SonSuBin129/server) | 멋쟁이사자처럼 미르톤 | Django | 참여 | 2023 |
-| **4** | [동아리 ‘멋쟁이사자처럼’ 리쿠르팅 사이트 개발](https://github.com/SonSuBin129/RecruitPage) | 멋쟁이사자처럼 교내 리쿠르팅 프로젝트 | Django | - | 2023 |
-| **5** | [날씨 정보에 따른 옷차림 추천 서비스: Clother](https://github.com/SonSuBin129/Clother-FE) | 학부: HCI 프로젝트 | HTML | - | 2024 |
-| **6** | [어휘력 증진 서비스: 어휘릭](https://github.com/SonSuBin129/Eohwirik) | 멋쟁이사자처럼 연합해커톤 | React | 참여 | 2024 |
-| **7** | [구화인을 위한 교육 플랫폼: Sonsori](https://github.com/MechaLions) | 학부: 졸업프로젝트 | React | 우수상 | 2024 |
-| **8** | [공연 티켓팅 서비스: Uket](https://github.com/DCNJ-Uket) | 사이드 프로젝트 (진행중) | React | - | 2024 |
-
-<br/>
-
 ## 🛠️ Tech Stacks 
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
